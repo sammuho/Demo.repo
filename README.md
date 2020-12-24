@@ -12,4 +12,7 @@ IEGRP
 Ospf
 ISIS
 BGP
-
+# learning CCNA
+buy study guide material
+join a class
+use youtube, udemy or edureka
