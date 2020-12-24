@@ -6,4 +6,10 @@ i can never get enough of it
 i have not been tired of switches and routers
 even IEgrp, OCPF, isIS not forgetting BGP.
 The automation of network is my favorite
-i amm currently studying for DevOps
+i am currently studying for DevOps
+# protocols
+IEGRP
+Ospf
+ISIS
+BGP
+
